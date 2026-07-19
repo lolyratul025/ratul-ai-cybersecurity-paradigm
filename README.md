@@ -8,9 +8,7 @@
 
 ## 📊 Live Report
 
-**[View the Full Report →](https://yourusername.github.io/ai-cybersecurity-paradigm/)**
-
-*(Replace `yourusername` with your actual GitHub username after deployment)*
+**[View the Full Report →](https://lolyratul025.github.io/ratul-ai-cybersecurity-paradigm/)**
 
 ---
 
